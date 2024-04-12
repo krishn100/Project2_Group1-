@@ -55,7 +55,6 @@ The following graph represents 1/200 graphs and shows sample entrance and exit p
 
 The code then make an investment capital tracker for each approach to visualize and compare the different approaches. 
 
-Images/portfolio_/EMA30_price_allticks.pn
 
 <img src = "Images/portfolio_/EMA30_price_allticks.png" width = "500"/>
 
