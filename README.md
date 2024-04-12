@@ -19,14 +19,14 @@ The main plots have been uploaded to Github - and accompanying plots will run pu
 Jupyter Lab file(s) name(s):
 *New Library:  TA-Lib - Technical Analysis Library and sklearn.naive_bayes import GaussianNB
 *Jupyter Lab file(s) In the following orders
-1a) DF prep Price Indicators
-1b) DF prep ratio indicators
-2a) Benchmarks Price
-2b) Benchmarks Ratios
-3a) Portfolio Price
-3b) Portfolio Ratio
-4a) 
-4b) 
+* 1a) DF prep Price Indicators
+* 1b) DF prep ratio indicators
+* 2a) Benchmarks Price
+* 2b) Benchmarks Ratios
+* 3a) Portfolio Price
+* 3b) Portfolio Ratio
+* 4a) 
+* 4b) 
 
 
 
