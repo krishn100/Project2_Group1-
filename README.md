@@ -14,8 +14,21 @@ buy and sell securities, we take it a step further to understand to what extent 
 fundamental price and liquidity ratios for example: Price/Sales, Price/Free Cashflow to the
 Firm, Price/Earnings, Debt/Equity to buy or sell.
 
+The main plots have been uploaded to Github - and accompanying plots will run purely in the Jupyter Lab Notebooks.
+
 Jupyter Lab file(s) name(s):
 *New Library:  TA-Lib - Technical Analysis Library and sklearn.naive_bayes import GaussianNB
+*Jupyter Lab file(s) In the following orders
+1a) DF prep Price Indicators
+1b) DF prep ratio indicators
+2a) Benchmarks Price
+2b) Benchmarks Ratios
+3a) Portfolio Price
+3b) Portfolio Ratio
+4a) 
+4b) 
+
+
 
 ## Data Gathering and Ratios
 #### Data Import ###
