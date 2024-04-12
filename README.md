@@ -25,8 +25,8 @@ Jupyter Lab file(s) name(s):
 * 2b) Benchmarks Ratios
 * 3a) Portfolio Price
 * 3b) Portfolio Ratio
-* 4a) 
-* 4b) 
+* 4a) Ratio Classification Reports 10 100 
+* 4b) Ratio Classification Reports 30 100 
 
 
 
