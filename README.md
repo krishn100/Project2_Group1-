@@ -13,6 +13,9 @@ analysis and financial ratios. Our work extends from class where we used price s
 buy and sell securities, we take it a step further to understand to what extent can
 fundamental price and liquidity ratios for example: Price/Sales, Price/Free Cashflow to the
 Firm, Price/Earnings, Debt/Equity to buy or sell.
+'
+### NOTE: 
+The main plots have been uploaded to Github - and accompanying plots will run purely in the Jupyter Lab Notebooks.  
 
 Jupyter Lab file(s) name(s):
 *New Library:  TA-Lib - Technical Analysis Library and sklearn.naive_bayes import GaussianNB
