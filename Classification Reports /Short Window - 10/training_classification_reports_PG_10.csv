@@ -1,0 +1,109 @@
+,precision,recall,f1-score,support,y_variable,model
+-1.0,0.5082159624413145,0.6453055141579732,0.5686145764937623,671.0,ps_Entry/Exit_sma,Naive Bayes
+0.0,0.74609375,0.4973958333333333,0.5968749999999999,768.0,ps_Entry/Exit_sma,Naive Bayes
+1.0,0.45121951219512196,0.502262443438914,0.47537473233404715,663.0,ps_Entry/Exit_sma,Naive Bayes
+accuracy,0.5461465271170314,0.5461465271170314,0.5461465271170314,0.5461465271170314,ps_Entry/Exit_sma,Naive Bayes
+macro avg,0.5685097415454788,0.5483212636434068,0.5469547696092698,2102.0,ps_Entry/Exit_sma,Naive Bayes
+weighted avg,0.5771510215906223,0.5461465271170314,0.5495308412772539,2102.0,ps_Entry/Exit_sma,Naive Bayes
+-1.0,1.0,1.0,1.0,671.0,ps_Entry/Exit_sma,Random Forest Classifier
+0.0,1.0,1.0,1.0,768.0,ps_Entry/Exit_sma,Random Forest Classifier
+1.0,1.0,1.0,1.0,663.0,ps_Entry/Exit_sma,Random Forest Classifier
+accuracy,1.0,1.0,1.0,1.0,ps_Entry/Exit_sma,Random Forest Classifier
+macro avg,1.0,1.0,1.0,2102.0,ps_Entry/Exit_sma,Random Forest Classifier
+weighted avg,1.0,1.0,1.0,2102.0,ps_Entry/Exit_sma,Random Forest Classifier
+-1.0,0.4651416122004357,0.6363636363636364,0.5374449339207049,671.0,ps_Entry/Exit_sma,Logistic Regression
+0.0,0.5146198830409356,0.5729166666666666,0.5422057917436846,768.0,ps_Entry/Exit_sma,Logistic Regression
+1.0,0.3404255319148936,0.1689291101055807,0.22580645161290322,663.0,ps_Entry/Exit_sma,Logistic Regression
+accuracy,0.46574690770694577,0.46574690770694577,0.46574690770694577,0.46574690770694577,ps_Entry/Exit_sma,Logistic Regression
+macro avg,0.4400623423854217,0.45940313771196123,0.43515239242576426,2102.0,ps_Entry/Exit_sma,Logistic Regression
+weighted avg,0.4438821216087086,0.46574690770694577,0.4408892845572301,2102.0,ps_Entry/Exit_sma,Logistic Regression
+-1.0,0.4118629908103592,0.6495388669301713,0.5040899795501023,759.0,ps_Entry/Exit_ema,Naive Bayes
+0.0,0.8333333333333334,0.23255813953488372,0.3636363636363636,860.0,ps_Entry/Exit_ema,Naive Bayes
+1.0,0.36113837095191365,0.43966547192353644,0.39655172413793105,837.0,ps_Entry/Exit_ema,Naive Bayes
+accuracy,0.43200325732899025,0.43200325732899025,0.43200325732899025,0.43200325732899025,ps_Entry/Exit_ema,Naive Bayes
+macro avg,0.535444898365202,0.4405874927961972,0.42142602244146565,2456.0,ps_Entry/Exit_ema,Naive Bayes
+weighted avg,0.5421594027599679,0.43200325732899025,0.418259511526567,2456.0,ps_Entry/Exit_ema,Naive Bayes
+-1.0,1.0,1.0,1.0,759.0,ps_Entry/Exit_ema,Random Forest Classifier
+0.0,1.0,1.0,1.0,860.0,ps_Entry/Exit_ema,Random Forest Classifier
+1.0,1.0,1.0,1.0,837.0,ps_Entry/Exit_ema,Random Forest Classifier
+accuracy,1.0,1.0,1.0,1.0,ps_Entry/Exit_ema,Random Forest Classifier
+macro avg,1.0,1.0,1.0,2456.0,ps_Entry/Exit_ema,Random Forest Classifier
+weighted avg,1.0,1.0,1.0,2456.0,ps_Entry/Exit_ema,Random Forest Classifier
+-1.0,0.4217687074829932,0.4901185770750988,0.453382084095064,759.0,ps_Entry/Exit_ema,Logistic Regression
+0.0,0.508578431372549,0.48255813953488375,0.4952267303102626,860.0,ps_Entry/Exit_ema,Logistic Regression
+1.0,0.33509234828496043,0.3034647550776583,0.3184952978056427,837.0,ps_Entry/Exit_ema,Logistic Regression
+accuracy,0.4238599348534202,0.4238599348534202,0.4238599348534202,0.4238599348534202,ps_Entry/Exit_ema,Logistic Regression
+macro avg,0.42181316238016753,0.42538049056254695,0.4223680374036564,2456.0,ps_Entry/Exit_ema,Logistic Regression
+weighted avg,0.42262711542121173,0.4238599348534202,0.4220653722142925,2456.0,ps_Entry/Exit_ema,Logistic Regression
+-1.0,0.4691358024691358,0.39947437582128775,0.43151171043293113,761.0,pfcf_Entry/Exit_sma,Naive Bayes
+0.0,0.721606648199446,0.5675381263616558,0.6353658536585366,918.0,pfcf_Entry/Exit_sma,Naive Bayes
+1.0,0.4720720720720721,0.6541822721598003,0.5484039769754055,801.0,pfcf_Entry/Exit_sma,Naive Bayes
+accuracy,0.5439516129032258,0.5439516129032258,0.5439516129032258,0.5439516129032258,pfcf_Entry/Exit_sma,Naive Bayes
+macro avg,0.5542715075802179,0.5403982581142479,0.5384271803556243,2480.0,pfcf_Entry/Exit_sma,Naive Bayes
+weighted avg,0.5635391042160618,0.5439516129032258,0.5447249398610069,2480.0,pfcf_Entry/Exit_sma,Naive Bayes
+-1.0,1.0,1.0,1.0,761.0,pfcf_Entry/Exit_sma,Random Forest Classifier
+0.0,1.0,1.0,1.0,918.0,pfcf_Entry/Exit_sma,Random Forest Classifier
+1.0,1.0,1.0,1.0,801.0,pfcf_Entry/Exit_sma,Random Forest Classifier
+accuracy,1.0,1.0,1.0,1.0,pfcf_Entry/Exit_sma,Random Forest Classifier
+macro avg,1.0,1.0,1.0,2480.0,pfcf_Entry/Exit_sma,Random Forest Classifier
+weighted avg,1.0,1.0,1.0,2480.0,pfcf_Entry/Exit_sma,Random Forest Classifier
+-1.0,0.4340175953079179,0.38896189224704336,0.4102564102564103,761.0,pfcf_Entry/Exit_sma,Logistic Regression
+0.0,0.3486943164362519,0.49455337690631807,0.409009009009009,918.0,pfcf_Entry/Exit_sma,Logistic Regression
+1.0,0.40725806451612906,0.25218476903870163,0.3114880493446415,801.0,pfcf_Entry/Exit_sma,Logistic Regression
+accuracy,0.38387096774193546,0.38387096774193546,0.38387096774193546,0.38387096774193546,pfcf_Entry/Exit_sma,Logistic Regression
+macro avg,0.396656658753433,0.37856667939735433,0.3769178228700203,2480.0,pfcf_Entry/Exit_sma,Logistic Regression
+weighted avg,0.3937913234658162,0.38387096774193546,0.3778940830647001,2480.0,pfcf_Entry/Exit_sma,Logistic Regression
+-1.0,0.5040650406504065,0.6078431372549019,0.551111111111111,714.0,pfcf_Entry/Exit_ema,Naive Bayes
+0.0,0.4769775678866588,0.47306791569086654,0.4750146972369194,854.0,pfcf_Entry/Exit_ema,Naive Bayes
+1.0,0.4554794520547945,0.3674033149171271,0.40672782874617736,724.0,pfcf_Entry/Exit_ema,Naive Bayes
+accuracy,0.4816753926701571,0.4816753926701571,0.4816753926701571,0.4816753926701571,pfcf_Entry/Exit_ema,Naive Bayes
+macro avg,0.47884068686395326,0.48277145595429855,0.47761787903140257,2292.0,pfcf_Entry/Exit_ema,Naive Bayes
+weighted avg,0.47862495867681853,0.4816753926701571,0.47714957800431707,2292.0,pfcf_Entry/Exit_ema,Naive Bayes
+-1.0,1.0,1.0,1.0,714.0,pfcf_Entry/Exit_ema,Random Forest Classifier
+0.0,1.0,1.0,1.0,854.0,pfcf_Entry/Exit_ema,Random Forest Classifier
+1.0,1.0,1.0,1.0,724.0,pfcf_Entry/Exit_ema,Random Forest Classifier
+accuracy,1.0,1.0,1.0,1.0,pfcf_Entry/Exit_ema,Random Forest Classifier
+macro avg,1.0,1.0,1.0,2292.0,pfcf_Entry/Exit_ema,Random Forest Classifier
+weighted avg,1.0,1.0,1.0,2292.0,pfcf_Entry/Exit_ema,Random Forest Classifier
+-1.0,0.5217391304347826,0.5210084033613446,0.5213735108619482,714.0,pfcf_Entry/Exit_ema,Logistic Regression
+0.0,0.47276853252647505,0.7318501170960188,0.5744485294117647,854.0,pfcf_Entry/Exit_ema,Logistic Regression
+1.0,0.3968871595330739,0.1408839779005525,0.20795107033639143,724.0,pfcf_Entry/Exit_ema,Logistic Regression
+accuracy,0.4794938917975567,0.4794938917975567,0.4794938917975567,0.4794938917975567,pfcf_Entry/Exit_ema,Logistic Regression
+macro avg,0.4637982741647772,0.4645808327859719,0.43459103687003475,2292.0,pfcf_Entry/Exit_ema,Logistic Regression
+weighted avg,0.4640542623952836,0.4794938917975567,0.4421449850770617,2292.0,pfcf_Entry/Exit_ema,Logistic Regression
+-1.0,0.41725768321513,0.48756906077348067,0.4496815286624204,724.0,pe_Entry/Exit_sma,Naive Bayes
+0.0,0.8071161048689138,0.4936998854524628,0.6126510305614784,873.0,pe_Entry/Exit_sma,Naive Bayes
+1.0,0.46568627450980393,0.5915317559153176,0.5211190345584202,803.0,pe_Entry/Exit_sma,Naive Bayes
+accuracy,0.5245833333333333,0.5245833333333333,0.5245833333333333,0.5245833333333333,pe_Entry/Exit_sma,Naive Bayes
+macro avg,0.5633533541979493,0.5242669007137537,0.5278171979274396,2400.0,pe_Entry/Exit_sma,Naive Bayes
+weighted avg,0.5752720835957035,0.5245833333333333,0.532863483825906,2400.0,pe_Entry/Exit_sma,Naive Bayes
+-1.0,1.0,1.0,1.0,724.0,pe_Entry/Exit_sma,Random Forest Classifier
+0.0,1.0,1.0,1.0,873.0,pe_Entry/Exit_sma,Random Forest Classifier
+1.0,1.0,1.0,1.0,803.0,pe_Entry/Exit_sma,Random Forest Classifier
+accuracy,1.0,1.0,1.0,1.0,pe_Entry/Exit_sma,Random Forest Classifier
+macro avg,1.0,1.0,1.0,2400.0,pe_Entry/Exit_sma,Random Forest Classifier
+weighted avg,1.0,1.0,1.0,2400.0,pe_Entry/Exit_sma,Random Forest Classifier
+-1.0,0.41679873217115687,0.3632596685082873,0.38819188191881915,724.0,pe_Entry/Exit_sma,Logistic Regression
+0.0,0.5844980940279543,0.5269186712485682,0.5542168674698795,873.0,pe_Entry/Exit_sma,Logistic Regression
+1.0,0.5091649694501018,0.6226650062266501,0.5602240896358543,803.0,pe_Entry/Exit_sma,Logistic Regression
+accuracy,0.5095833333333334,0.5095833333333334,0.5095833333333334,0.5095833333333334,pe_Entry/Exit_sma,Logistic Regression
+macro avg,0.5034872652164043,0.5042811153278351,0.5008776130081843,2400.0,pe_Entry/Exit_sma,Logistic Regression
+weighted avg,0.5087035786028139,0.5095833333333334,0.5061425799116753,2400.0,pe_Entry/Exit_sma,Logistic Regression
+-1.0,0.3687549563838224,0.5984555984555985,0.4563297350343474,777.0,pe_Entry/Exit_ema,Naive Bayes
+0.0,0.7164179104477612,0.21476510067114093,0.33046471600688465,894.0,pe_Entry/Exit_ema,Naive Bayes
+1.0,0.4605128205128205,0.539015606242497,0.49668141592920356,833.0,pe_Entry/Exit_ema,Naive Bayes
+accuracy,0.4416932907348243,0.4416932907348243,0.4416932907348243,0.4416932907348243,pe_Entry/Exit_ema,Naive Bayes
+macro avg,0.5152285624481346,0.45074543512307885,0.4278252889901452,2504.0,pe_Entry/Exit_ema,Naive Bayes
+weighted avg,0.5234055082019601,0.4416932907348243,0.4248160062703152,2504.0,pe_Entry/Exit_ema,Naive Bayes
+-1.0,1.0,1.0,1.0,777.0,pe_Entry/Exit_ema,Random Forest Classifier
+0.0,1.0,1.0,1.0,894.0,pe_Entry/Exit_ema,Random Forest Classifier
+1.0,1.0,1.0,1.0,833.0,pe_Entry/Exit_ema,Random Forest Classifier
+accuracy,1.0,1.0,1.0,1.0,pe_Entry/Exit_ema,Random Forest Classifier
+macro avg,1.0,1.0,1.0,2504.0,pe_Entry/Exit_ema,Random Forest Classifier
+weighted avg,1.0,1.0,1.0,2504.0,pe_Entry/Exit_ema,Random Forest Classifier
+-1.0,0.4758364312267658,0.32947232947232946,0.3893536121673004,777.0,pe_Entry/Exit_ema,Logistic Regression
+0.0,0.502410800385728,0.5827740492170023,0.5396167788710513,894.0,pe_Entry/Exit_ema,Logistic Regression
+1.0,0.44241119483315394,0.49339735894357745,0.46651532349602726,833.0,pe_Entry/Exit_ema,Logistic Regression
+accuracy,0.4744408945686901,0.4744408945686901,0.4744408945686901,0.4744408945686901,pe_Entry/Exit_ema,Logistic Regression
+macro avg,0.4735528088152159,0.46854791254430306,0.46516190484479303,2504.0,pe_Entry/Exit_ema,Logistic Regression
+weighted avg,0.4742047475655172,0.4744408945686901,0.4686710948230443,2504.0,pe_Entry/Exit_ema,Logistic Regression
